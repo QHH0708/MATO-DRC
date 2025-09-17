@@ -12,7 +12,7 @@ We don't use any special features of this version of Matlab; thus, we believe th
 2. OPTI Toolbox. [OPTI](https://github.com/jonathancurrie/OPTI). For solving the nonlinear optimization problem.
 3. YALMIP. [YALMIP](https://github.com/yalmip/YALMIP). For solving the linear matrix inequality problem of the ellipsoid convex hull operation.
 
-To install these three dependencies, please visit their official websites, and download their installation .m files. Then, run these .m files in MATLAB, and the installation will be completed automatically.
+To install these three dependencies, please visit their official websites.
 
 **File Structure**
 
